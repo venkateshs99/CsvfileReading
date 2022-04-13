@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57742" started-at="2022-04-12T08:57:38Z" finished-at="2022-04-12T08:58:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57742" started-at="2022-04-12T08:57:38Z" finished-at="2022-04-12T08:58:36Z">
+      <class name="Csv.CsvfileReading">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Csv.CsvfileReading@75412c2f]" name="setup" is-config="true" duration-ms="3787" started-at="2022-04-12T14:27:38Z" finished-at="2022-04-12T14:27:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="locatorsTestingBlog()[pri:0, instance:Csv.CsvfileReading@75412c2f]" name="locatorsTestingBlog" duration-ms="53175" started-at="2022-04-12T14:27:42Z" finished-at="2022-04-12T14:28:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locatorsTestingBlog -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Csv.CsvfileReading@75412c2f]" name="tearDown" is-config="true" duration-ms="766" started-at="2022-04-12T14:28:35Z" finished-at="2022-04-12T14:28:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Csv.CsvfileReading -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
